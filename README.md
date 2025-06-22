@@ -1,4 +1,12 @@
-Architecture.drawio --> Contains the entire architecture for the solution 
-EDA.ipynb --> EDA for the food Dataset
-DataFusion --> OCR and Multimodal LM Handling , Creation of BIO Dataset 
-DataLoader --> Dataset from BIO and Dataloade
+NIQ Assessment
+Architecture.drawio
+Contains the entire architecture diagram for the solution.
+
+EDA.ipynb
+Exploratory Data Analysis (EDA) notebook for the food dataset.
+
+DataFusion/
+Contains OCR and Multimodal Language Model (LM) handling, and the creation of the BIO dataset.
+
+DataLoader/
+Code for loading dataset from BIO format and preparing PyTorch DataLoader.
