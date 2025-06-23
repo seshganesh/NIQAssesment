@@ -13,4 +13,6 @@ DataLoader/
 
 Models/
 - Placeholder for different models based on the architecture
-- 
+
+Solution pipeline description 
+- Nutriments Prediction pipeline from Images.pptx
