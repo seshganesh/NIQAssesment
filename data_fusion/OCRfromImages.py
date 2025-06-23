@@ -93,6 +93,7 @@ def split_text(txt):
 
 def convertoBIO(data):
     df_data=convertjsontodataframe(data)
+    df_data.to_csv(ROOT_DIR / "data" / "df_bio.csv")
     bio_rows = []
     for idx, row in  df_data.iterrows():
         for col in ["front", "ingredients",  "nutriments"]:
