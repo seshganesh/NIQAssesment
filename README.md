@@ -1,5 +1,5 @@
 NIQ Assessment
-Architecture.drawio
+Model/MLSolutionArchitecturewithlayeredmodels
 - Contains the entire architecture diagram for the solution.
 
 EDA.ipynb
@@ -10,3 +10,7 @@ DataFusion/
 
 DataLoader/
 - Code for loading dataset from BIO format and preparing PyTorch DataLoader.
+
+Models/
+- Placeholder for different models based on the architecture
+- 
